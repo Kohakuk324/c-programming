@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main() {
+    int N,i,s;
+    s=0;
+    scanf("%d",&N);
+    for(i=1;i<=N;i++){
+        s=s+i;
+    }
+    printf("%d\n",s);
+    return 0;
+}
