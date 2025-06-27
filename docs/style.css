@@ -31,7 +31,7 @@ h3, h6 {
 /* strongタグとfontタグの表示 */
 strong {
   font-weight: bold;
-  color: #cc0000;
+  color: #1f1cff;
 }
 
 font {
@@ -51,7 +51,7 @@ a:hover {
 /* ボタンの装飾 */
 button {
   padding: 10px 20px;
-  background-color: #28a745;
+  background-color: #1258f0;
   border: none;
   color: white;
   border-radius: 5px;
@@ -59,7 +59,7 @@ button {
 }
 
 button:hover {
-  background-color: #218838;
+  background-color: #3691fa;
 }
 
 /* 入力欄のスタイル */
